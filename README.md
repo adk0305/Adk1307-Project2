@@ -29,7 +29,7 @@ It covers test cases of the following testing website
     5. Using TestNG framework for Test Cases
 ## Installation Steps
 *  Create Maven Project in Eclipse IDE:
-   - Lunch Eclipse IDE >> File >> New >> Project
+   - Launch Eclipse IDE >> File >> New >> Project
    - Select Maven Project and click Next
    - Check Create a Simple Project and click Next
    - Enter Group Id and Artifact Id and click Next
